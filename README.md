@@ -14,5 +14,5 @@ ki - i-th character of the key phrase (if the key phrase is shorter than the ope
 
 26 - length of the alphabet
 
-This ciphers has many weaknesses, but the primary weakness of the Vigenère cipher is the repeating nature of its key. If a cryptanalyst correctly guesses the length of the key ( it's fairly easy to guess the key length, for example by looking at correlations between characters n positions apart.), 
+This cipher has many weaknesses, but the primary weakness of the Vigenère cipher is the repeating nature of its key. If a cryptanalyst correctly guesses the length of the key ( it's fairly easy to guess the key length, for example by looking at correlations between characters n positions apart.), 
 then the ciphertext can be treated as interwoven Caesar ciphers, which, individually, can be easily broken.
